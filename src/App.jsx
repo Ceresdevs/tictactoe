@@ -1,4 +1,4 @@
-import Square from './components/Square'
+import Board from './components/Board'
 
 
 
@@ -8,7 +8,7 @@ import Square from './components/Square'
 function App() {
   return (
     <>
-      <Square />
+      <Board />
     </>
   )
 }
